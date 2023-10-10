@@ -1,6 +1,6 @@
 # Developing-Data-Products-Week-4-Course-Project
 By- Mohit Rounak
-Date- 10 Oct,2023
+Date- 10 Oct, 2023
 This peer assessed assignment has two parts. First, you will create a Shiny application and deploy it on Rstudio's servers. Second, you will use Slidify or Rstudio Presenter to prepare a reproducible pitch presentation about your application.
 
 ## Your Shiny Application
